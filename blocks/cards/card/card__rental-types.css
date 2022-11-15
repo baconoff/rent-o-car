@@ -1,0 +1,6 @@
+.card__rental-types{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}

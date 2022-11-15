@@ -1,0 +1,21 @@
+.call_button{
+    display: inline-block;
+    margin-top: 15px;
+    width: 65%;
+    outline: none;
+    border-radius: 3em;
+    height: auto;
+    font-size: 15px;
+    line-height: 35px;
+    transition: .3s;
+}
+
+.button-icon{
+    position: absolute;
+    margin-left: -40px;
+    width: 36px;
+}
+.call_button:hover{
+    transform: scale(1.2);
+    /* transform: scale(1.15); */
+}

@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    flex-direction: row nowrap;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+    padding: 30px;
+    vertical-align: baseline;
+    background-image: url(../../image/noname.jfif);
+    background-repeat: no-repeat;
+    object-fit:scale-down;
+    
+}
